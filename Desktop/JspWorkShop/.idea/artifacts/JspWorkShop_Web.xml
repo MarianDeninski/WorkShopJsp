@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="JspWorkShop:Web">
+    <output-path>$PROJECT_DIR$/out/artifacts/JspWorkShop_Web</output-path>
+    <root id="archive" name="JspWorkShop_Web.war">
+      <element id="artifact" artifact-name="JspWorkShop:Web exploded" />
+    </root>
+  </artifact>
+</component>
